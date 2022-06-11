@@ -2,6 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/-eduardofonseca/)](https://www.linkedin.com/in/-eduardofonseca/)
 [![Tutanota Badge](https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white&link=mailto:eduardofonseca@tuta.io)](mailto:eduardofonseca@tuta.io)
+[![Codewars Badge](https://www.codewars.com/users/eduardo-fonseca/badges/small)](https://www.codewars.com/users/eduardo-fonseca/)
 <details open>
   <summary>About Me</summary>
 
