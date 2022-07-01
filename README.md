@@ -6,7 +6,7 @@
 <details open>
   <summary>About Me</summary>
 
-- 🌱 I’m currently focused on learn Back-end Development Skills;
+- 🌱 I’m currently learning Web Full-Stack Development Skills focused on Back-end;
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/-eduardofonseca/); [Instagram](https://www.instagram.com/_eduardofonseca/);
 </details>
 
